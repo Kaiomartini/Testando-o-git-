@@ -1,0 +1,4 @@
+Testanco comendos do git
+git init - cria um repoisitorio
+git status -  valia o statos dos arquivos do repositorio 
+git add . - adiciona todos arquivos modificados au repositorio local.
