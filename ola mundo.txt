@@ -7,3 +7,9 @@ git commit -m "nome da verção do commit" - commit é quando se cria uma verç�
 git push --set-upstream origin master - para enviar para servidor da nuvem o commit realisado
 git reflog - para ver historio de versoes 
 git reset -- hard <id da versao que vc deseja retornar> 
+cakshdfkahsdbkfajhsbdfkjahbsdkfjhabsdkfjhabskdfj
+fasdkfblaisjdbflajsdfkjabsldkjf
+
+afklsjdhfoakjsdçfkqa
+asçdfkijapsoi
+fasdkfblaisjdbflajsdfkjabsldkjf
