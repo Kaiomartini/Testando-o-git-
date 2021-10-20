@@ -2,3 +2,6 @@ Testanco comendos do git
 git init - cria um repoisitorio
 git status -  valia o statos dos arquivos do repositorio 
 git add . - adiciona todos arquivos modificados au repositorio local.
+git remote add <nome do repositorio> <Link do repositorio>
+git commit -m "nome da verção do commit" - commit é quando se cria uma verção de um repositorio 
+git push - para enviar para servidor da nuvem o commit realisado
