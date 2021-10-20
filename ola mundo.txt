@@ -23,3 +23,5 @@ git merge <nome da branch que deseja unir> - atualisa o codigo de uma branch com
 3. adicionar nova funcionalidade a branch que criou 
 4.   
 >>>>>>> stagio
+
+altearado pelo clone 
