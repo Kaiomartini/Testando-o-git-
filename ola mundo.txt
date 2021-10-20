@@ -5,3 +5,5 @@ git add . - adiciona todos arquivos modificados au repositorio local.
 git remote add <nome do repositorio> <Link do repositorio>
 git commit -m "nome da verção do commit" - commit é quando se cria uma verção de um repositorio 
 git push --set-upstream origin master - para enviar para servidor da nuvem o commit realisado
+git reflog - para ver historio de versoes 
+git reset -- hard <id da versao que vc deseja retornar> 
