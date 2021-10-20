@@ -12,3 +12,12 @@ git reset -- hard <id da versao que vc deseja retornar>
 git branch - lista as branch existentes
 git branch <nome da nova branch> - cria uma nova branch
 git checkout <nome da branch de deseja entrar> - para mudar de branch
+///////////////////////////////////////////
+git pull - atualisa os arquivos da sua maquina local com os arquivos do servidor online 
+git merge <nome da branch que deseja unir> - atualisa o codigo de uma branch com codigo de outra 
+///////////////
+---Boas praticas do uso de MERGE
+1. git pull da branch principal 
+2. gerar outra branch da principal 
+3. adicionar nova funcionalidade a branch que criou 
+4.   
