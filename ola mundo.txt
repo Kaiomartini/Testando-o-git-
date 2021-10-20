@@ -9,14 +9,7 @@ git commit -m "nome da verção do commit" - commit é quando se cria uma verç�
 git push --set-upstream origin master - para enviar para servidor da nuvem o commit realisado
 git reflog - para ver historio de versoes 
 git reset -- hard <id da versao que vc deseja retornar> 
-<<<<<<< HEAD
-cakshdfkahsdbkfajhsbdfkjahbsdkfjhabsdkfjhabskdfj
-fasdkfblaisjdbflajsdfkjabsldkjf
 
-afklsjdhfoakjsdçfkqa
-asçdfkijapsoi
-fasdkfblaisjdbflajsdfkjabsldkjfewrw
-=======
 git branch - lista as branch existentes
 git branch <nome da nova branch> - cria uma nova branch
 git checkout <nome da branch de deseja entrar> - para mudar de branch
